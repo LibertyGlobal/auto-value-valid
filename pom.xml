@@ -4,7 +4,7 @@
 
     <groupId>com.lgi.auto.value.valid</groupId>
     <artifactId>auto-value-valid</artifactId>
-    <version>0.2.0</version>
+    <version>0.2.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -244,6 +244,6 @@
     <scm>
         <connection>scm:git:git@github.com:LibertyGlobal/auto-value-valid.git</connection>
         <url>https://github.com/LibertyGlobal/auto-value-valid.git/</url>
-        <tag>0.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
