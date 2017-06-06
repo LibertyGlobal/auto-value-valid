@@ -25,7 +25,7 @@ The extension will generate an implementation of the given abstract method annot
 
 ```xml
 <dependency>
-  <groupId>com.lgi.auto.value</groupId>
+  <groupId>com.lgi.auto.value.valid</groupId>
   <artifactId>auto-value-valid</artifactId>
   <version>0.1.0</version>
   <scope>provided</scope>
@@ -33,3 +33,5 @@ The extension will generate an implementation of the given abstract method annot
 ```
 
  [auto]: https://github.com/google/auto
+
+Do mind that it's currently uploaded to Liberty Globals private repository
